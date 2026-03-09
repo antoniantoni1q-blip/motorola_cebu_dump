@@ -13,10 +13,4 @@ RZCS31.Q2-57-12-14
 - Tags: release-keys
 - CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
 - A/B Device: true
-- Treble Device: true
-- Locale: en-US
-- Screen Density: undefined
-- Fingerprint: motorola/cebu_retail/cebu:11/RZCS31.Q2-57-12-14/3d8395:user/release-keys
-- OTA version: 
-- Branch: msi-user-11-RZCS31.Q2-57-12-14-3d8395-release-keys
-- Repo: motorola_cebu_dump
+- Treble Dev
