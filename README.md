@@ -4,7 +4,8 @@
 - Codename: cebu
 - Brand: motorola
 - Flavor: msi-user
-- Release Version: 11
+- Release Version: 1
+- 
 - Kernel Version: 4.19.157
 - Id: RZCS31.Q2-57-12-14
 RZCS31.Q2-57-12-14
